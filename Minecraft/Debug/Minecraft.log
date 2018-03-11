@@ -1,0 +1,29 @@
+﻿  EnvPainter.cpp
+  moc_gl_widget.cpp
+  moc_gl_window.cpp
+  moc_minecraft.cpp
+  moc_root_widget.cpp
+  moc_utils.cpp
+  camera.cpp
+  gl_painter.cpp
+gl_painter.cpp(1176): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1220): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1263): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1308): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1355): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1363): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1414): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1424): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1434): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1491): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+gl_painter.cpp(1755): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+  gl_widget.cpp
+  gl_window.cpp
+  global.cpp
+  main.cpp
+  minecraft.cpp
+  root_widget.cpp
+  utils.cpp
+  正在生成代码...
+  Minecraft.vcxproj -> C:\Users\Dell\Desktop\Minecraft\Win32\Debug\Minecraft.exe
+  Minecraft.vcxproj -> C:\Users\Dell\Desktop\Minecraft\Win32\Debug\Minecraft.pdb (Full PDB)
